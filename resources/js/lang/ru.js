@@ -1,5 +1,5 @@
 const lang_messages = {
-    "All Comics": "Все комиксы",
+    "All Comics": "Все манхвы",
     "Recommended": "Рекомендуемые",
     "Last Releases": "Последние релизы",
     "Socials": "Соц.сети",
@@ -17,7 +17,7 @@ const lang_messages = {
     "Title": "Название",
     "Volume downloads": "Загрузки томов",
     "Filename": "Имя файла",
-    "Dark": "Темный",
+    "Dark": "Ночь",
     "Filter chapters": "Фильтр глав",
 
     " second ago": " секунду назад",
