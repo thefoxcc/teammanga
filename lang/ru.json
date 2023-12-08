@@ -1,5 +1,5 @@
 {
-    "All Comics": "Все комиксы",
+    "All Comics": "Все манхвы",
     "Recommended": "Рекомендуемые",
     "Last Releases": "Последние релизы",
     "Socials": "Соц.сети",
@@ -15,10 +15,10 @@
     "Chapters": "Главы",
     "Title": "Название",
     "Volumes downloads": "Загрузка томов",
-    "Dark": "Тьма",
+    "Dark": "Ночь",
     "Admin panel": "Панель администратора",
     "Edit profile": "Редактировать профиль",
     "Loading": "Загрузка",
-    "Search comic": "Поиск манг",
+    "Search comic": "Поиск манхв",
     "Filter": "Фильтр"
 }
